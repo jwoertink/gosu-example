@@ -1,0 +1,12 @@
+= Gosu Example
+
+== Requirements
+use Ruby 1.8.7
+
+== Install
+
+  rvm use 1.8.7
+  bundle
+  
+== Play
+  ruby starfighter.rb
